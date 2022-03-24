@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&display=swap');
+.btn{
+    font-family: Kaisei Tokumin, sans-serif;
+    background-color:var(--main-bg-color);
+    color: whitesmoke;
+    border: 0.2vw solid white;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color:whitesmoke;
+    color: var(--main-bg-color);
+    border: 0.2vw solid var(--main-bg-color);
+    cursor: pointer;
+}
