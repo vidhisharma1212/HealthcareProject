@@ -405,3 +405,12 @@ header nav ul li a:hover{
   top: 15vh;
   width: 100%;
 }
+
+.emergtips{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: bisque;
+  height: 65vh;
+  margin: 0 0 0 0 ;
+}
