@@ -386,3 +386,14 @@ header nav ul li a:hover{
   width: 41vw;
   font-size: 3vh;
 }
+
+.emergency{
+  display: inline-flex;
+  position: absolute;
+  left: 35vw;
+}
+.emergency2{
+  display: inline-flex;
+  position: absolute;
+  left: 51vw;
+}
